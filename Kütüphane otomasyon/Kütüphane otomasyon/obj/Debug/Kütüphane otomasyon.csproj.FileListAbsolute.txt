@@ -1,0 +1,20 @@
+c:\users\vk computer\documents\visual studio 2013\Projects\Kütüphane otomasyon\Kütüphane otomasyon\bin\Debug\Kütüphane otomasyon.exe.config
+c:\users\vk computer\documents\visual studio 2013\Projects\Kütüphane otomasyon\Kütüphane otomasyon\bin\Debug\Kütüphane otomasyon.exe
+c:\users\vk computer\documents\visual studio 2013\Projects\Kütüphane otomasyon\Kütüphane otomasyon\bin\Debug\Kütüphane otomasyon.pdb
+c:\users\vk computer\documents\visual studio 2013\Projects\Kütüphane otomasyon\Kütüphane otomasyon\obj\Debug\Kütüphane otomasyon.csprojResolveAssemblyReference.cache
+c:\users\vk computer\documents\visual studio 2013\Projects\Kütüphane otomasyon\Kütüphane otomasyon\obj\Debug\Kütüphane_otomasyon.Form1.resources
+c:\users\vk computer\documents\visual studio 2013\Projects\Kütüphane otomasyon\Kütüphane otomasyon\obj\Debug\Kütüphane_otomasyon.Properties.Resources.resources
+c:\users\vk computer\documents\visual studio 2013\Projects\Kütüphane otomasyon\Kütüphane otomasyon\obj\Debug\Kütüphane otomasyon.csproj.GenerateResource.Cache
+c:\users\vk computer\documents\visual studio 2013\Projects\Kütüphane otomasyon\Kütüphane otomasyon\obj\Debug\Kütüphane otomasyon.exe
+c:\users\vk computer\documents\visual studio 2013\Projects\Kütüphane otomasyon\Kütüphane otomasyon\obj\Debug\Kütüphane otomasyon.pdb
+c:\users\vk computer\documents\visual studio 2013\Projects\Kütüphane otomasyon\Kütüphane otomasyon\obj\Debug\Kütüphane_otomasyon.kullanicigirisi.resources
+C:\Users\VK Computer\documents\visual studio 2013\Projects\Kütüphane otomasyon\Kütüphane otomasyon\obj\Debug\Kütüphane_otomasyon.anamenü.resources
+C:\Users\VK Computer\documents\visual studio 2013\Projects\Kütüphane otomasyon\Kütüphane otomasyon\obj\Debug\Kütüphane_otomasyon.ogrenciekle.resources
+C:\Users\VK Computer\documents\visual studio 2013\Projects\Kütüphane otomasyon\Kütüphane otomasyon\obj\Debug\Kütüphane_otomasyon.ogrsil.resources
+C:\Users\VK Computer\documents\visual studio 2013\Projects\Kütüphane otomasyon\Kütüphane otomasyon\obj\Debug\Kütüphane_otomasyon.ogrduzenle.resources
+C:\Users\VK Computer\documents\visual studio 2013\Projects\Kütüphane otomasyon\Kütüphane otomasyon\obj\Debug\Kütüphane_otomasyon.ogrlistele.resources
+C:\Users\VK Computer\documents\visual studio 2013\Projects\Kütüphane otomasyon\Kütüphane otomasyon\obj\Debug\Kütüphane_otomasyon.kitapduzenle.resources
+C:\Users\VK Computer\documents\visual studio 2013\Projects\Kütüphane otomasyon\Kütüphane otomasyon\obj\Debug\Kütüphane_otomasyon.kitapekle.resources
+C:\Users\VK Computer\documents\visual studio 2013\Projects\Kütüphane otomasyon\Kütüphane otomasyon\obj\Debug\Kütüphane_otomasyon.kitaplistele.resources
+C:\Users\VK Computer\documents\visual studio 2013\Projects\Kütüphane otomasyon\Kütüphane otomasyon\obj\Debug\Kütüphane_otomasyon.kitapsil.resources
+C:\Users\VK Computer\documents\visual studio 2013\Projects\Kütüphane otomasyon\Kütüphane otomasyon\obj\Debug\Kütüphane_otomasyon.geckitap.resources
